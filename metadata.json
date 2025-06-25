@@ -1,0 +1,6 @@
+{
+  "name": "Predictive Maintenance Assistant",
+  "description": "Upload industrial equipment data (Excel/CSV) to analyze a selected machine's operational metrics and determine if maintenance is required using AI.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
